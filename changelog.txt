@@ -1,0 +1,98 @@
+v1.1.6 - 2020-04-20
+-----------------------------
+* Feature : Compatible with WooCommerce Multivendor Marketplace
+
+v1.1.5 - 2020-03-16
+-----------------------------
+* Feature : Compatible with WooCommerce 4.x
+* Update  : Updated Translations
+* Update  : Slider Revolution to 6.2.2
+
+v1.1.4 - 2020-02-22
+-----------------------------
+* Feature : Compatible with WooCommerce 3.9.2
+* Feature : WPForms Compatible
+* Update  : Dummy data for WPForms
+* Update  : Slider Revolution 6.1.8
+
+v1.1.3 - 2019-09-25
+-----------------------------
+* Fix     : Fixed issues with RTL Off Canvas
+
+v1.1.2 - 2019-09-24
+-----------------------------
+* Update  : Compatible with WooCommerce v3.7.0
+* Update  : Compatible with Elementor v2.7.3
+* Update  : Slider Revolution to v6.1.2
+* Fix     : Fixed issues with RTL Off Canvas
+* Fix     : View Track Order Issue Fixed
+* Fix     : Brands Carousel Infinite loop
+
+v1.1.1 - 2019-04-18
+-----------------------------
+* Update  : Compatible with WooCommerce 3.6.0
+* Update  : Updated Slider Revolution
+
+v1.1.0 - 2019-02-05
+-----------------------------
+* Update  : Elementor dummy pages included
+* Update  : Elementor static blocks added
+* Fix     : Handheld logo issue fixed
+
+v1.0.8 - 2019-01-08
+-----------------------------
+* Update  : Updated Slider Revolution
+* Update  : Separate logo for handheld
+* Fix     : Dokan my account issue fixed
+* Fix     : Single product feature list order issue in mobile
+
+v1.0.7 - 2018-12-04
+-----------------------------
+* Fix     : Fixed Dokan Dashboard style issues.
+* Fix     : Fixed Header My Account icon changing issue.
+* Fix     : King Composer and Elementor Category Slug adding issue fixed.
+* Fix     : Single Product Add to Wishlist Responsive issue fixed.
+* Fix     : Checkout Mobile Overflow issue fixed.
+* Fix     : Elementor Product Carousel Responsive issue fixed.
+* Fix     : Cart Page update Price change issue fixed.
+* Fix     : Single Product Magnifier issue fixed.
+
+v1.0.6 - 2018-09-17
+-----------------------------
+* Update  : Compatible with WooCommerce 3.5
+* Update  : Horizontal mobile thumbnail view
+* Fix     : Shop Page Archive view
+* Fix     : About Page & Home page cat slugs
+
+v1.0.5 - 2018-09-11
+-----------------------------
+* Feature : Option to switch to Horizontal thumbnails
+* Feature : Compatible with YITH WooCompare
+* Update  : Cart Page mobile improvement
+* Update  : Handheld slider toggle improvement
+* Fix     : About Page title issue
+* Fix     : Checkout page mobile responsive issues
+
+v1.0.4 - 2018-08-30
+-----------------------------
+* Fix     : Fixed double coupon issue in cart page
+* Fix     : Fixed single post featured image issue
+
+v1.0.3 - 2018-08-23
+-----------------------------
+* Fix     : Fixed issues related to checkout coupon
+
+v1.0.2 - 2018-08-16
+-----------------------------
+* Feature : Added option to change payment icons image
+* Feature : Now custom logos have flexible height, limited by CSS
+
+v1.0.1 - 2018-08-03
+-----------------------------
+* Feature : Dokan & Dokan Pro Compatible
+* Feature : Single product feature option
+* Fix     : Fixed an issue with mobile dropdown
+
+v1.0.0 - 2018-07-29
+-----------------------------
+* Initial Release

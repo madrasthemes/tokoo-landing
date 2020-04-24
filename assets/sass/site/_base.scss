@@ -1,0 +1,68 @@
+body {
+    font-family: $font-family-poppins;
+    font-size: 18px;
+    line-height: 30px;
+    color: #797878;
+    font-weight: 400;
+}
+
+img {
+    @include img-fluid;
+}
+
+.screen-reader-text {
+    @include sr-only();
+}
+
+.skip-link {
+    @include sr-only-focusable();
+}
+
+@if $enable-grid-classes {
+    .container {
+        @include make-container();
+        @include make-container-max-widths($electro-v2-container-max-widths);
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@if $enable-grid-classes {
+    .container-fluid {
+        @include make-container();
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+a {
+    @include hover-focus() {
+        text-decoration: none;
+    }
+}
+
+// select {
+//     max-width: 100%;
+//     @include make-custom-select();
+// }
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.collapse {
+    display: none;
+
+    &.show {
+        display: block;
+    }
+}
