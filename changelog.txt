@@ -1,3 +1,17 @@
+v1.1.8 - 2020-07-08
+-----------------------------
+* Feature : Compatible with WooCommerce 4.2.x
+* Update  : Slider Revolution Updated
+* Update  : Dokan Store Reviews Template Updated
+* Fix     : Fixed issues with Variable Product Image on variation change
+* Fix     : Fixed issues with Single product RTL image slider
+
+v1.1.7 - 2020-04-20
+-----------------------------
+* Feature : Compatible with WooCommerce 4.1.0
+* Update  : Slider Revolution to 6.2.5
+* Fix     : Fixed issues with WooCommerce form classes
+
 v1.1.6 - 2020-04-20
 -----------------------------
 * Feature : Compatible with WooCommerce Multivendor Marketplace
